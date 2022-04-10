@@ -28,6 +28,7 @@ python AmongCheatGUI.py
 ## Download
 
 You can download Among Cheat in .exe <a href="https://github.com/akira-trinity/AmongCheat/releases">here</a>.
+Make sure Among Us is running before starting Among Cheat
 
 ## Disclaimer
 

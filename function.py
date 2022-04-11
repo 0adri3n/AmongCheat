@@ -12,5 +12,5 @@ def GetPtrAdress(base, offsets):
     return addr + offsets[-1]
 
 def speedhack(speedvalue):
-    pm.write_float(GetPtrAdress(module2 + 0x0147642C, [0x88, 0x524, 0x50, 0x4, 0x5C, 0x24, 0x8]), float(speedvalue))
+    pm.write_float(GetPtrAdress(module2 + 0x01449738, [0xC4, 0x548, 0x1C, 0x5C, 0x5C, 0x24, 0x8]), float(speedvalue))
 

@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Among Cheat is a simple and easy speed cheat for Among Us.
+Among Cheat is a simple and easy speed cheat for Among Us. [OUTDATED !]
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62818208/162634969-6c6eca50-9f30-4569-aabc-4b4fd85f20fb.png"/>
